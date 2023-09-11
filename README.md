@@ -37,13 +37,13 @@
 Clone o projeto
 
 ```bash
-  git clone https://github.com/lilo-afk/PainelAtendimento.git
+  git clone https://github.com/lilo-afk/OOP-LojaVirtual-Java.git
 ```
 
 Abra o caminho do diretório do projeto
 
 ```bash
-  cd PainelAtendimento
+  cd OOP-LojaVirtual-Java
 ```
 
 Vscode (IDE)
